@@ -37,8 +37,8 @@ An interactive sales analytics dashboard for Wave Shoes Store, built using **Loo
 
 
 ## Dashboard Preview
-![Wave Shoes Sales Dashboard](<img width="980" height="553" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/4f1d276d-363e-46ae-9600-6c95a6a33516" />
-)
+![Wave Shoes Sales Dashboard]
+<img width="980" height="553" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/4f1d276d-363e-46ae-9600-6c95a6a33516" />)
 
 ---
 
