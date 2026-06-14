@@ -1,0 +1,45 @@
+
+🧠 SQL PRACTICE QUESTIONS !!
+________________________________________
+🟢 LEVEL 1 (Basic)
+1.Find the total number of orders. 
+2.Calculate the total sales amount. 
+3.Find the total quantity sold. 
+4.Count the number of unique customers. 
+5.List all unique products. 
+6.Find the highest order value. 
+7.Find the lowest order value. 
+________________________________________
+🟡 LEVEL 2 (Intermediate)
+8.Find the total quantity sold for each product. 
+9.Calculate total spending by each customer. 
+10.Find total sales for each city. 
+11.Calculate total sales for each category. 
+12.Find the top 5 best-selling products based on quantity. 
+13.Find the top 5 customers based on total spending. 
+14.Identify the least selling product. 
+________________________________________
+🟠 LEVEL 3 (Advanced)
+15.Calculate profit for each order. 
+16.Find all loss-making orders. 
+17.Find the top 5 most profitable products. 
+18.Calculate the average order value. 
+19.Find the average spending per customer. 
+20.Identify the most profitable city. 
+________________________________________
+🔴 LEVEL 4 (Real Business Level)
+21.Analyze monthly sales trends. 
+22.Calculate monthly profit. 
+23.Identify repeat customers (customers with more than one order). 
+24.Calculate average profit per product. 
+25.Find the top 3 cities by revenue. 
+26.Identify the order with the highest profit. 
+27.Segment customers into High, Medium, and Low spenders based on total spending. 
+________________________________________
+🟣 LEVEL 5 (Interview Level 🔥)
+28.Identify products with high sales but low profit. 
+29.Find customers who purchase consistently every month. 
+30.Compare total sales and total profit for each product. 
+31.Identify categories that are generating losses. 
+32.Find the top 10% of customers based on revenue.
+
